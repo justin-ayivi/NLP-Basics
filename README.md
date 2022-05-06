@@ -1,3 +1,3 @@
 # NLP-Basics
-Learning about NLP (Natural langage processing) tools and algorithms
+Learning basics about NLP (Natural langage processing) tools and algorithms
 
